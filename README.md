@@ -16,7 +16,6 @@ YOLO approach, python dark net and open computer vision library.
 
 * pip install opencv-python
 
-That should be it!
 
 https://github.com/user-attachments/assets/c66daa4c-b002-4fdb-88c9-0a0637364d20
 
