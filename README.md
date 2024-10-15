@@ -18,6 +18,12 @@ YOLO approach, python dark net and open computer vision library.
 # Demo Video
 
 https://github.com/user-attachments/assets/c66daa4c-b002-4fdb-88c9-0a0637364d20
+
+
+
+
+
+#
 ![1](https://github.com/user-attachments/assets/a3553c2d-1a53-4daa-8a98-e38a908906e2)
 ![2](https://github.com/user-attachments/assets/94003518-faef-471c-a1ea-e7f553533e2a)
 ![3](https://github.com/user-attachments/assets/dc61dbf8-59d4-41a0-9c84-094fd3405796)
